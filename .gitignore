@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (contains API keys)
+.env
+
+# macOS files
+.DS_Store
+
+# Streamlit logs
+.streamlit/
+
+# IDE files
+.idea/
+.vscode/ 
