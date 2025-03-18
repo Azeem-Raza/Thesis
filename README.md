@@ -22,8 +22,8 @@ An AI-powered customer support agent for a mobile retail store using LangChain/L
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mobile-retail-support-ai.git
-   cd mobile-retail-support-ai
+   git clone https://github.com/Azeem-Raza/Thesis).git
+   cd Thesis project
    ```
 
 2. Create a virtual environment and activate it:
